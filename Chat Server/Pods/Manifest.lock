@@ -1,0 +1,20 @@
+PODS:
+  - SocketRocket (0.5.1)
+  - Starscream (4.0.0)
+
+DEPENDENCIES:
+  - SocketRocket
+  - Starscream
+
+SPEC REPOS:
+  trunk:
+    - SocketRocket
+    - Starscream
+
+SPEC CHECKSUMS:
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  Starscream: 04b26f02727e10a002e6b5d21b188ba0d049910b
+
+PODFILE CHECKSUM: c9e52afbc037917e25585f139e2afd5fa963a49b
+
+COCOAPODS: 1.9.1
